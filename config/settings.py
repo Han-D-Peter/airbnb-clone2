@@ -27,7 +27,7 @@ DEBUG = True
 
 # bool(os.environ.get("DEBUG"))
 
-ALLOWED_HOSTS = [".elasticbeanstalk.com"]
+ALLOWED_HOSTS = ["airbnb-clone2.eba-uhzmwr8p.ap-northeast-2.elasticbeanstalk.com"]
 
 
 # Application definition
